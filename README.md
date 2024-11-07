@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ruth-ma
+- 👋 Hi, I’m @ru-ma
 - 👀 I'm really into math & medicine
 - 🌱 Right now, I'm deep diving into statistics
 - 💞️ I'm looking for people to team up with to work on statistics in the medical field
